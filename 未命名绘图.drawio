@@ -1,9 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T10:52:25.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.6.6" etag="wJ_bGZFsbG4YNlh66wwT" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-30T13:09:22.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="LwBMidzK5zcLjOGmje6A" version="21.6.6" type="github">
   <diagram name="第 1 页" id="gbMhagBrjoQCon4AFCmz">
-    <mxGraphModel>
+    <mxGraphModel dx="1500" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bcjW5a-8J8_juxVMC8h0-1" target="bcjW5a-8J8_juxVMC8h0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bcjW5a-8J8_juxVMC8h0-1" target="bcjW5a-8J8_juxVMC8h0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1.定义主要搜索词&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bcjW5a-8J8_juxVMC8h0-4" target="bcjW5a-8J8_juxVMC8h0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bcjW5a-8J8_juxVMC8h0-4" target="bcjW5a-8J8_juxVMC8h0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;2.寻找同义词或者补充词&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bcjW5a-8J8_juxVMC8h0-5" target="bcjW5a-8J8_juxVMC8h0-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bcjW5a-8J8_juxVMC8h0-5" target="bcjW5a-8J8_juxVMC8h0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;3.选择文献来源&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bcjW5a-8J8_juxVMC8h0-6" target="bcjW5a-8J8_juxVMC8h0-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bcjW5a-8J8_juxVMC8h0-6" target="bcjW5a-8J8_juxVMC8h0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;4.检索搜索词及同义词或补充词&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bcjW5a-8J8_juxVMC8h0-7" target="bcjW5a-8J8_juxVMC8h0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bcjW5a-8J8_juxVMC8h0-7" target="bcjW5a-8J8_juxVMC8h0-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;5.检索关键词并通过阅读摘要和标题进行初步筛选&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bcjW5a-8J8_juxVMC8h0-8" target="bcjW5a-8J8_juxVMC8h0-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;6.阅读全文进行二次筛选&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="505" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;中文：课程知识图谱&lt;br&gt;外文：Course Knowledge graph&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-10" value="&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;中文：课程/学科/教育知识图谱&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;外文：Course/ Education/ Subject Knowledge graph&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;教育技术、计算机核心期刊&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;共获得300篇中文文献，200篇外文文献&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;共获得200篇中文文献，100篇外文文献&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;共获得120篇中文文献，80篇外文文献&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="505" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-29" value="剔除重复类文献、访谈、&lt;br&gt;报告等无关研究类的文献&lt;br&gt;以及研究主题与课程知识&lt;br&gt;图谱无关，发表时间为2016&lt;br&gt;之前的文献" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="350" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-31" value="剔除非研究重点的文献" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="510" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;中文&lt;br&gt;《中国电化教育》《电化教育研究》《现代教育技术》《&lt;span style=&quot;box-sizing: border-box; line-height: 21px; color: rgb(16, 18, 20); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Arial, &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, 宋体, &amp;quot;Malgun Gothic&amp;quot;, sans-serif; text-align: start; caret-color: rgb(251, 74, 62); background-color: rgb(255, 255, 255);&quot; data-group=&quot;0-1&quot; class=&quot;src&quot;&gt;远程教育杂志》&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; line-height: 21px; color: rgb(16, 18, 20); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Arial, &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, 宋体, &amp;quot;Malgun Gothic&amp;quot;, sans-serif; text-align: start; caret-color: rgb(251, 74, 62); background-color: rgb(255, 255, 255);&quot; data-group=&quot;0-2&quot; class=&quot;src&quot;&gt;《开放教育研究》《现代远距离教育》《&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; line-height: 21px; color: rgb(16, 18, 20); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Arial, &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, 宋体, &amp;quot;Malgun Gothic&amp;quot;, sans-serif; text-align: start; caret-color: rgb(251, 74, 62); background-color: rgb(255, 255, 255);&quot; data-group=&quot;0-3&quot; class=&quot;src&quot;&gt;中国远程教育》《现代远程教育研究》《计算机学报》《软件学报》《计算机研究与发展》等&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="20" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="bcjW5a-8J8_juxVMC8h0-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="230" as="sourcePoint" />
+            <mxPoint x="730" y="220" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-35" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;外文&lt;br&gt;Computers &amp;amp; Education&lt;br&gt;British Journal Of Educational Technology&lt;br&gt;Educational Technology Research and Development&lt;br&gt;Jourmal of Computer Assisted Learning&lt;br&gt;Journal of Educational Technology&amp;amp; Society&lt;br&gt;Learning, Media and Technology International journal of computer &lt;br&gt;supparted collaborative Jearning Educational technology &amp;amp; society等&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="260" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjW5a-8J8_juxVMC8h0-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bcjW5a-8J8_juxVMC8h0-11" target="bcjW5a-8J8_juxVMC8h0-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="260" as="sourcePoint" />
+            <mxPoint x="570" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
